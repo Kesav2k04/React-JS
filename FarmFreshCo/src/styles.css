@@ -1,0 +1,44 @@
+/* styles.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .navbar {
+    background-color: #4CAF50;
+    padding: 15px;
+    color: white;
+    text-align: center;
+  }
+  
+  .footer {
+    background-color: #4CAF50;
+    padding: 15px;
+    color: white;
+    text-align: center;
+  }
+  
+  .home-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .home-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+  }
+  
+  .terms-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .terms-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+  }
+  

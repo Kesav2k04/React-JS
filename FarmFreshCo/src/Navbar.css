@@ -1,0 +1,76 @@
+/* styles.css */
+
+/* Navbar Styles */
+.navbar {
+    background-color: #4CAF50;
+    padding: 10px;
+    color: white;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 16px;
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline;
+  }
+  
+  .navbar-logo {
+    margin-right: auto;
+  }
+  
+  .navbar-icons {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Footer Styles */
+  .footer {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 14px;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-icons {
+    margin-top: 10px;
+  }
+  
+  .footer-subscribe {
+    margin-top: 10px;
+  }
+  
+  .footer-subscribe input {
+    padding: 8px;
+    margin-right: 10px;
+  }
+  
+  .footer-subscribe button {
+    padding: 8px;
+    background-color: #fff;
+    color: #4CAF50;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .footer-subscribe button:hover {
+    background-color: #ddd;
+  }
+  
+  /* Add more styles as needed */
+  
